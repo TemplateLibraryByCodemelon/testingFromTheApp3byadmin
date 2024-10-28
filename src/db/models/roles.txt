@@ -1,0 +1,5 @@
+Information about all the available roles and their advantages >>
+
+1. Users: users will have many inner roles like normal user, user which can post job openings, they will have the permissions as required for them.
+2. Admin: Admins will have the authority to give permission to users to post jobs and they can delete a job if it is not authentic to ban people and even ban their ip.
+3. Administrator: they will have all permissions of the website
